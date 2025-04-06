@@ -189,9 +189,10 @@
 
 import React from "react";
 import ChatbotSingle from "./components/ChatbotSingle";
+import Chatbot from "./components/Chatbot";
 
 function App() {
-  return <ChatbotSingle />;
+  return <Chatbot />;
 }
 
 export default App;
